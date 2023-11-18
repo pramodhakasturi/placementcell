@@ -44,6 +44,4 @@ Tools Used
   			nodemon index.js
 
 
-**Hosted link:**
 
-https://pramodhakasturi.github.io/placementcell/
